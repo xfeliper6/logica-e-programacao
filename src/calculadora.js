@@ -28,8 +28,4 @@ function somarCamposDaTela(){
 
 module.exports = {
     somarDoisNumeros
-},
-
-module.exports = {
-    calcularMediaDeDoisNumeros
 }
